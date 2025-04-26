@@ -31,9 +31,6 @@
   - **Next.js**
   - Some basic **Machine Learning** concepts
     
-- 💬 Ask me about:
-  - **React.js**, **Node.js**, **TailwindCSS**, **Express.js**
-    
 - 🎮 Hobbies:
   - Gaming 🕹️
   - Listening to music 🎶
