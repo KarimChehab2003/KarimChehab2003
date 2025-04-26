@@ -1,4 +1,4 @@
-<p align="start">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things!;Let's+connect+%26+build+something+awesome!" alt="Typing SVG" />
 </p>
 
@@ -9,7 +9,7 @@
 🎓 I'm a student at **Ain Shams University**, currently pursuing a dual-degree in **Computer Science** with the **University of East London**.  
 🚀 I'm working towards becoming a **Web Developer**.
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
