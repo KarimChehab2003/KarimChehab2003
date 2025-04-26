@@ -9,6 +9,10 @@
 🎓 I'm a student at **Ain Shams University**, currently pursuing a dual-degree in **Computer Science** with the **University of East London**.  
 🚀 I'm working towards becoming a **Web Developer**.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -62,13 +66,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimchehab2003&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
-
----
-
-## 🌟 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
