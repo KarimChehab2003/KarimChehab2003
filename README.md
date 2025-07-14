@@ -1,69 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Always+learning+something+new!;Let's+connect+and+create+awesome+stuff!" alt="Typing SVG" />
-</p>
+
+<h1 align="center">Hi 👋, I'm Karim Chehab</h1>
+<h3 align="center">Frontend Developer | Typescript & React Enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="karimchehab2003" /> </p>
+
+# 💫 About Me:
+- 🔭 I’m currently working on [React Query Projects](https://karimchehab2003.github.io/react-query-projects/)
+
+- 🌱 I’m currently learning **React Query, Zustand, Next.js(soon)**
+
+- 📫 How to reach me **karimchehab2018@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/karim-chehab-75a0b5318/](https://www.linkedin.com/in/karim-chehab-75a0b5318/)
+
+- ⚡ Fun fact **I’m a frontend dev by day and a gamer by night.**
 
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karim_chehab1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-chehab-75a0b5318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimchehab2018@gmail.com) 
 
-# Hi, I'm Karim Chehab 👋
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karimchehab2003&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=karimchehab2003&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karimchehab2003&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 I'm a student at **Ain Shams University**, currently pursuing a dual-degree in **Computer Science** with the **University of East London**.  
-🚀 I'm working towards becoming a **Web Developer**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karimchehab2003&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-chehab-75a0b5318/)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://karimchehab2003.github.io/karimchehab-portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimchehab2018@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/_skimo_)
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on:
-  - **Adaptive Study Plan Generator** 📚
-  - **E-commerce Web App** 🛒
-    
-- 🌱 Learning:
-  - **Firebase**
-  - **Next.js**
-  - Some basic **Machine Learning** concepts
-    
-- 🎮 Hobbies:
-  - Gaming 🕹️
-  - Listening to music 🎶
-  - Building side-projects to practice and improve 🔥
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karimchehab2003&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=karimchehab2003&icon=0&color=5)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimchehab2003&show_icons=true&theme=radical" alt="Karim's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimchehab2003&theme=radical" alt="Karim's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimchehab2003&layout=compact&theme=radical" alt="Top languages" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimchehab2003&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
