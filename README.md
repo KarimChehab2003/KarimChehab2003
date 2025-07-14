@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Karim Chehab</h1>
 <h3 align="center">Frontend Developer | Typescript & React Enthusiast</h3>
 
