@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="karimchehab2003" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Zustand Practice Projects](https://karimchehab2003.github.io/zustand-practice-projects/)
+- 🔭 I’m currently working on Nextjs Projects
 
-- 🌱 I’m currently learning **React Query Zustand, Next.js(soon)**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **karimchehab2018@gmail.com**
 
